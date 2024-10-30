@@ -4,7 +4,7 @@
   
 - 🧠 I love learning new skills, hence why I have started to dip my toes into software engineering and development.
   
-- 🌱 I’m currently learning Python, Databases, and Web Applicatiosn, as well as other tools used in developing great games (such as Unreal Engine, Blender, and Ren'Py).
+- 🌱 I’m currently learning Python, Databases, and Web Applications, as well as other tools used in developing great games (such as Unreal Engine, Blender, and Ren'Py).
   
 - 💻 I am currently a DevOps Engineering apprentice at Apple.
   
